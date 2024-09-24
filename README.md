@@ -36,3 +36,4 @@ The project took approximately 20 to 25 days to complete during my internship at
 This project has been an incredible journey, helping me enhance my skills in web development, including both frontend and backend technologies. I'm excited to apply what I've learned to future projects and continue growing as a developer.
 
 Sample Pic Of the Outcome:
+![Amazon-Project-Outcome](https://github.com/user-attachments/assets/4a7eceea-c742-4c4f-8e3f-04ffd6f67b02)
