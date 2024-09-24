@@ -1,5 +1,11 @@
 # CODTECH-TASK-02
 
+NAME: SRIKANTH K                        
+COMPANY: CODTECH IT SOLUTIONS PVT.LTD                
+ID: CT08DS7676             
+DOMAIN: Web Development                   
+DURATION: 4 Weeks  
+
                  Overview of My Amazon Clone Project
 Intro:
 
@@ -8,26 +14,22 @@ The Amazon clone project is a fully functional e-commerce website designed to re
 The Features of the poject:
 
 1.Dynamic Product Listings: 
-
 The product listing page dynamically displays items from the database, offering sorting and filtering options to enhance user experience. Users can easily find products based on categories, price range, and other criteria.
 
 2.Shopping Cart:
-
 The shopping cart functionality provides real-time updates, allowing users to add or remove items and instantly see the total price. This feature enhances the shopping experience by making it easy for users to manage their purchases.
 
 3.Streamlined Checkout Process:
-
 The checkout process is designed to be smooth and user-friendly. It includes steps for confirming the order, providing shipping details, and making payments, ensuring a hassle-free transaction for users.
 
 4.Responsive Design:
-
 The website is built with a responsive design, ensuring it works well on various devices, including desktops, tablets, and mobile phones. This adaptability enhances the user experience across different platforms.
 
 1.Technologies Used:
 
- >>HTML
- >>CSS
- >>JavaScript
+ <<HTML
+ <<CSS
+ <<JavaScript
 
 Development Timeline:
 
